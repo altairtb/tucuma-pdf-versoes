@@ -5,6 +5,14 @@ O Editor de PDF da **Câmara Municipal de Parintins**: leitor, editor, assinador
 Este repositório guarda só as **versões publicadas** (instaladores e arquivos de atualização). O
 código-fonte fica num repositório privado da Câmara.
 
+## Leitor e Editor
+
+O instalador é o mesmo para todos e funciona como **Tucumã PDF Leitor**: abrir, buscar, imprimir,
+preencher formulários, recortar com o Instantâneo e verificar assinaturas digitais, sem custo e sem
+cadastro. As ferramentas de edição — comentar, organizar páginas, assinar, tarjar dados pessoais,
+OCR, PDF/A e as demais — são do **Tucumã PDF Editor**, liberado nos setores da Câmara por um serial
+fornecido pelo **Departamento de TI** (em **Arquivo → Ativar o Editor**, sem precisar de internet).
+
 ## Instalar
 
 1. Abra a [versão mais recente](https://github.com/altairtb/tucuma-pdf-versoes/releases/latest) e
